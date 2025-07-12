@@ -1,8 +1,9 @@
 [build]
   base = "testsite"
-  publish = "testsite/site"
+  publish = "site"        # ← CAMBIA esto
   command = "mkdocs build"
 
 [build.environment]
   PYTHON_VERSION = "3.10"
+
 
