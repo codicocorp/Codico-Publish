@@ -1,5 +1,5 @@
 [build]
-  base = "testsite"
+  base = "ProyectoA"
   publish = "site"        # ← CAMBIA esto
   command = "mkdocs build"
 
