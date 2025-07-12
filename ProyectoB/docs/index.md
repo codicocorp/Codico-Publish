@@ -1,5 +1,4 @@
-# Welcome to MkDocs
+1
 
-## Este es el ProyectoB
 
-Parece que todo esta funcionando bien
+
